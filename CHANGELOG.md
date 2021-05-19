@@ -6,3 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.1.0] - 2021-05-19
+
+[Unreleased]: https://github.com/mrmartineau/gh-release-experiments/compare/1.1.0...HEAD
+
+[1.1.0]: https://github.com/mrmartineau/gh-release-experiments/compare/57cfd6e9137aa5893ac425a74fdb523e775d38cb...1.1.0
