@@ -8,7 +8,8 @@ This repo is my playground for GitHub actions to release a webapp.
   - input release version number
   - input git commit sha that will be used for this release
 - update the package.json version
-- release notes and/or a changelog file should automatically be created
+- add new git tag
+- GitHub release notes and/or a changelog file should automatically be created
 - Send message to Teams/Slack once the release is done
 
 # Staging
