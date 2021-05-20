@@ -7,8 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0] - 2021-05-20
+
 ## [1.1.0] - 2021-05-19
 
-[Unreleased]: https://github.com/mrmartineau/gh-release-experiments/compare/1.1.0...HEAD
+[Unreleased]: https://github.com/mrmartineau/gh-release-experiments/compare/1.2.0...HEAD
+
+[1.2.0]: https://github.com/mrmartineau/gh-release-experiments/compare/1.1.0...1.2.0
 
 [1.1.0]: https://github.com/mrmartineau/gh-release-experiments/compare/57cfd6e9137aa5893ac425a74fdb523e775d38cb...1.1.0
