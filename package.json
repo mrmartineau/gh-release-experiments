@@ -1,6 +1,6 @@
 {
-    "name": "gh-release-experiments",
-    "version": "1.2.0",
-    "main": "index.js",
-    "license": "MIT"
+  "name": "gh-release-experiments",
+  "version": "1.2.0",
+  "main": "index.js",
+  "license": "MIT"
 }
