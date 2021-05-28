@@ -1,0 +1,12 @@
+name: Publish Release
+on:
+  release:
+    types: [published]
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+      - name: Release the app
+        run: echo "Release the app"
